@@ -1,0 +1,14 @@
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\bin\Debug\net7.0\ProducatorConsumator.exe
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\bin\Debug\net7.0\ProducatorConsumator.deps.json
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\bin\Debug\net7.0\ProducatorConsumator.runtimeconfig.json
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\bin\Debug\net7.0\ProducatorConsumator.dll
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\bin\Debug\net7.0\ProducatorConsumator.pdb
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\obj\Debug\net7.0\ProducatorConsumator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\obj\Debug\net7.0\ProducatorConsumator.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\obj\Debug\net7.0\ProducatorConsumator.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\obj\Debug\net7.0\ProducatorConsumator.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\obj\Debug\net7.0\ProducatorConsumator.dll
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\obj\Debug\net7.0\refint\ProducatorConsumator.dll
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\obj\Debug\net7.0\ProducatorConsumator.pdb
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\obj\Debug\net7.0\ProducatorConsumator.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Desktop\ProducatorConsumator\obj\Debug\net7.0\ref\ProducatorConsumator.dll

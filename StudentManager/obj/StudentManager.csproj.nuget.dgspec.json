@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ULBS\\AN_4\\SEM2\\AlgoritmiParaleli\\StudentManager\\StudentManager.csproj": {}
+  },
+  "projects": {
+    "D:\\ULBS\\AN_4\\SEM2\\AlgoritmiParaleli\\Lab5_Server\\StudentManagerServer.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\ULBS\\AN_4\\SEM2\\AlgoritmiParaleli\\Lab5_Server\\StudentManagerServer.csproj",
+        "projectName": "StudentManagerServer",
+        "projectPath": "D:\\ULBS\\AN_4\\SEM2\\AlgoritmiParaleli\\Lab5_Server\\StudentManagerServer.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\ULBS\\AN_4\\SEM2\\AlgoritmiParaleli\\StudentManager\\StudentManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ULBS\\AN_4\\SEM2\\AlgoritmiParaleli\\StudentManager\\StudentManager.csproj",
+        "projectName": "StudentManager",
+        "projectPath": "D:\\ULBS\\AN_4\\SEM2\\AlgoritmiParaleli\\StudentManager\\StudentManager.csproj",
+        "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
+        "outputPath": "D:\\ULBS\\AN_4\\SEM2\\AlgoritmiParaleli\\StudentManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "D:\\ULBS\\AN_4\\SEM2\\AlgoritmiParaleli\\Lab5_Server\\StudentManagerServer.csproj": {
+                "projectPath": "D:\\ULBS\\AN_4\\SEM2\\AlgoritmiParaleli\\Lab5_Server\\StudentManagerServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[8.1.2, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[8.1.2, )"
+            },
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[8.1.2, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

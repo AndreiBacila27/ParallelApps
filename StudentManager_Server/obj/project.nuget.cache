@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tROJdWIcR+jaGKEum1Djy7duGbnMmpuygPJWyB1yeM8H6+ZY32EeB7tS0JhsMjKg8seMOKgvJMvsC4jTEqIg9g==",
+  "success": true,
+  "projectFilePath": "D:\\ULBS\\AN_4\\SEM2\\AlgoritmiParaleli\\StudentManager_Server\\StudentManager_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.servicemodel.primitives\\8.1.2\\system.servicemodel.primitives.8.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

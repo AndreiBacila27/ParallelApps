@@ -1,0 +1,10 @@
+D:\ULBS\AN_4\SEM2\AlgoritmiParaleli\MPI_suma_matrice\bin\Debug\MPI_suma_matrice.exe.config
+D:\ULBS\AN_4\SEM2\AlgoritmiParaleli\MPI_suma_matrice\bin\Debug\MPI_suma_matrice.exe
+D:\ULBS\AN_4\SEM2\AlgoritmiParaleli\MPI_suma_matrice\bin\Debug\MPI_suma_matrice.pdb
+D:\ULBS\AN_4\SEM2\AlgoritmiParaleli\MPI_suma_matrice\bin\Debug\MPI.dll
+D:\ULBS\AN_4\SEM2\AlgoritmiParaleli\MPI_suma_matrice\bin\Debug\MPI.xml
+D:\ULBS\AN_4\SEM2\AlgoritmiParaleli\MPI_suma_matrice\obj\Debug\MPI_suma_matrice.csproj.AssemblyReference.cache
+D:\ULBS\AN_4\SEM2\AlgoritmiParaleli\MPI_suma_matrice\obj\Debug\MPI_suma_matrice.csproj.CoreCompileInputs.cache
+D:\ULBS\AN_4\SEM2\AlgoritmiParaleli\MPI_suma_matrice\obj\Debug\MPI_suma_matrice.csproj.CopyComplete
+D:\ULBS\AN_4\SEM2\AlgoritmiParaleli\MPI_suma_matrice\obj\Debug\MPI_suma_matrice.exe
+D:\ULBS\AN_4\SEM2\AlgoritmiParaleli\MPI_suma_matrice\obj\Debug\MPI_suma_matrice.pdb
